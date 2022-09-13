@@ -1,0 +1,2 @@
+rasul@rasul-Latitude-7480:~/Downloads/goland-2022.2.2/GoLand-2022.2.2/bin$ ./goland.sh
+for launching ./goland.sh in root project of Goland-project
