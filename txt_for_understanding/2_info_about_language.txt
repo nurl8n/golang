@@ -1,0 +1,12 @@
+Statically typed
+Fast run time
+Compiled
+Fast Compile Time
+Supports concurrency through goroutines and channel
+Has automatic garbage collection
+Does not support classes and objects
+Does not support inheritance
+
+go run main.go
+go build main.go
+
