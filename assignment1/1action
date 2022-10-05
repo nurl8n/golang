@@ -1,0 +1,6 @@
+local terminal
+>>> mkdir kolesa
+>>> cd kolesa
+>>> go mod init github.com/nurl8n/golang
+
+в результате у нас создаётся папка, с go.mod файлом
